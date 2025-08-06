@@ -1,8 +1,14 @@
 # 📅 Conferences & Events
 
-A curated list of conferences, forums, and summits in Internet Governance, tech policy, digital rights, and related fields.  
+This section highlights **conferences, forums, summits, and gatherings** related to:
 
-Use this list to explore participation, speaking opportunities, fellowships, and funding support.
+- Internet Governance
+- Tech & Digital Policy
+- Cybersecurity & Privacy
+- Digital Inclusion & Human Rights
+- Open Internet & Internet Infrastructure
+
+Whether you're looking to **attend**, **speak at**, or **submit proposals**, this directory will help you stay updated and involved.
 
 ---
 
