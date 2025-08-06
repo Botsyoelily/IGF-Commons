@@ -1,6 +1,6 @@
-# IGF Resource Hub 🌐
+# Internet Governance Resource Hub 🌐
 
-Welcome to the Internet Governance Forum (IGF) Resource Hub — a collaborative, open-access directory for anyone interested in the Internet Governance ecosystem.
+Welcome to the Internet Governance Resource Hub — a collaborative, open-access directory for anyone interested in the Internet Governance ecosystem.
 
 Whether you're a policymaker, researcher, youth advocate, civil society leader, or curious newcomer, this hub is here to help you discover key opportunities, resources, and communities across the globe.
 
