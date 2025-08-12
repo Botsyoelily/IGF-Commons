@@ -67,10 +67,16 @@ Read what other youth communities have done — and get inspired to build your o
 
 ---
 
-## 🤝 How to Contribute
+## 🤝 Want to Contribute?
 
-This is a living, community-led resource.  
-Contributions are welcome through pull requests, GitHub issues, or via the form [insert Google Form or email link].
+We welcome your ideas, edits, and expertise!  
+Check out our [Contribution Guidelines](CONTRIBUTING.md) to get started.
+
+You can also:
+- Fork the repo and submit a pull request
+- Open a GitHub Issue with ideas or corrections
+- Or express interest in joining the review team!
+
 
 ---
 
