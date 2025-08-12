@@ -37,7 +37,7 @@ Get funding for your ideas and initiatives — especially if you're working on:
 - Open Internet advocacy
 
 ### 6. 🌟 Success Stories
-Explore case studies and personal journeys from people and communities that have made meaningful impact in the IG space.
+Explore case studies, policy influence, personal journeys from people and communities that have made meaningful impact in the IG space.
 
 ### 7. 📇 IGF Personalities
 A living list of influential voices to follow and learn from — across tech policy, activism, and thought leadership.
