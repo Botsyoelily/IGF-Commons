@@ -21,9 +21,9 @@ Whether you're looking to **attend**, **speak at**, or **submit proposals**, thi
 
 ### 🗓 October 2025
 
-- **[Internet Governance Forum (IGF) 2025](https://www.intgovforum.org/)**  
-  🌍 **Region:** Global  
-  📅 **Date:** October 2025 (TBD)  
+- **[Event Name](URL)**  
+  🌍 **Region:** Add 
+  📅 **Date:** Add 
   💰 **Funding:** Yes (Fellowship & Travel Support)  
   🗓 **Application Deadline:** Likely May–June 2025 _(pending official call)_
 
@@ -31,7 +31,7 @@ Whether you're looking to **attend**, **speak at**, or **submit proposals**, thi
 
 ### 🗓 November 2025
 
-- **[UN Open Source Summit](https://opensource.un.org/)**  
+- **[Event Name](URL)**  
   🌐 **Region:** UN / Global  
   📅 **Date:** November 2025  
   💰 **Funding:** No  
@@ -39,15 +39,15 @@ Whether you're looking to **attend**, **speak at**, or **submit proposals**, thi
 
 ---
 
-### 🗓 TBD (Q3–Q4 2025)
+### 🗓 [Month] [Year]
 
-- **[Africa IGF (AfIGF)](https://african-igf.org/)**  
+- **[Event Name](URL)**  
   🌍 **Region:** Africa  
   📅 **Date:** August–October 2025 _(TBD)_  
   💰 **Funding:** Depends on host region  
   🗓 **Application Deadline:** Varies by year and country
 
-- **[Asia Pacific IGF (APrIGF)](https://aprigf.asia/)**  
+- **[Event Name](URL)**  
   🌏 **Region:** Asia-Pacific  
   📅 **Date:** TBD 2025  
   💰 **Funding:** Yes  
